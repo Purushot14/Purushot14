@@ -7,6 +7,11 @@
   - 👯 I’m looking to collaborate on Open Source projects
   - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/prakashpurushot/)
 
+</br >
+
+[![Purushot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purushot14)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Purushot14/Purushot14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
