@@ -9,7 +9,7 @@
 
 </br >
 
-[Purushot's GitHub stats][](https://github-readme-stats.vercel.app/api?username=Purushot14&show_icons=true&theme=dark)
+[![Purushot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purushot14&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=Purushot14&show_icons=true&theme=dark)
 
 <!--
 **Purushot14/Purushot14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
