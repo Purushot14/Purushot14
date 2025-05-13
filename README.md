@@ -2,10 +2,10 @@
 
 ## I'm a Software Engineer!
 
-  - 🔭 I’m currently working on [![kf](https://kissflow.com/hubfs/kissflow-fav-new.png) Kissflow ](https://kissflow.com)
+  - 🔭 I’m currently working on [![kf](https://kissflow.com/hubfs/kissflow-favicon-new.ico) Kissflow ](https://kissflow.com)
   - 🌱 I’m currently learning 🤔 
   - 👯 I’m looking to collaborate on Open Source projects
-  - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/prakashpurushot/)
+  - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/purushothaman14/)
 
 </br >
 
