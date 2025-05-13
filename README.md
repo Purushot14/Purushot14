@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer!
 
-  - 🔭 I’m currently working on [![kf](https://kissflow.com/static/dist/images/favicon.png) Kissflow Digital Workplace](https://kissflow.com)
+  - 🔭 I’m currently working on [![kf](https://kissflow.com/hubfs/kissflow-fav-new.png) Kissflow ](https://kissflow.com)
   - 🌱 I’m currently learning 🤔 
   - 👯 I’m looking to collaborate on Open Source projects
   - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/prakashpurushot/)
